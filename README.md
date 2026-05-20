@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # finanzas_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# appFinanzas
+Proyecto para controlar gastos e ingresos.
+>>>>>>> 7fa34dccd5962b820406085c887c395397680416
